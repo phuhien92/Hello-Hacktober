@@ -7,4 +7,6 @@ function helloWorld(applause){
   console.log('No applause :(');
 }
 
+helloWorld(1);
+
 
